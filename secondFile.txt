@@ -1,6 +1,6 @@
 11. git_2: Concatenate the last two commits using reset + commit commands.
-12. git_2: Change date, author and message of the last commit and add non-empty thirdFile.txt file to it.
-13. git_2: Create a new commit that reverts changes of the last one.
+12. Alternative second line
+13. Alternative third line
 14. git_2: Create and commit thirdFile.txt file.
 15. git_2: Run command that removes all changes of the last two commits.
 16. Synchronize git_1 and git_2 with a remote repository.
