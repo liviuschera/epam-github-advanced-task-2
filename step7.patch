@@ -1,0 +1,25 @@
+From 16a0a7b92920ab7ed011b8635699c479aadd4a03 Mon Sep 17 00:00:00 2001
+From: liviuschera <liviu.schera@gmail.com>
+Date: Fri, 7 Feb 2025 17:24:18 +0200
+Subject: [PATCH] Second modification of firstFile.txt
+
+---
+ firstFile.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 79ea841..c72275d 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -7,6 +7,8 @@ nem line
+ 5. git_1: Update and commit the same 2 lines with the different info in secondFile.txt
+ 6. merge branch git_2 to git_1, resolve conflict. Left all (4) modified lines. Commit.
+ 7. git_1: Update and commit firstFile.txt file, modify two lines.
++another new line
++another new line
+ 8. git_1: Update and commit firstFile.txt file, modify another two lines.
+ 9. Transfer changes of commit from Step 7 only to git_2, using format patch.
+ 10. Transfer changes of commit from Step 8 only to git_2, using cherrypick command.
+-- 
+2.47.1.windows.2
+
