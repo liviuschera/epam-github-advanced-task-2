@@ -1,0 +1,10 @@
+1. git_1: Add and commit firstFile.txt file with 10 lines.
+2. git_1: Add and commit secondFile.txt file with 10 lines.
+3. merge branch git_1 to git_2
+4. git_2: Update and commit any two lines in secondFile.txt.
+5. git_1: Update and commit the same 2 lines with the different info in secondFile.txt
+6. merge branch git_2 to git_1, resolve conflict. Left all (4) modified lines. Commit.
+7. git_1: Update and commit firstFile.txt file, modify two lines.
+8. git_1: Update and commit firstFile.txt file, modify another two lines.
+9. Transfer changes of commit from Step 7 only to git_2, using format patch.
+10. Transfer changes of commit from Step 8 only to git_2, using cherrypick command.
