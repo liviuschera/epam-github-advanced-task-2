@@ -1,6 +1,8 @@
 1. git_1: Add and commit firstFile.txt file with 10 lines.
 2. git_1: Add and commit secondFile.txt file with 10 lines.
 3. merge branch git_1 to git_2
+new line
+nem line
 4. git_2: Update and commit any two lines in secondFile.txt.
 5. git_1: Update and commit the same 2 lines with the different info in secondFile.txt
 6. merge branch git_2 to git_1, resolve conflict. Left all (4) modified lines. Commit.
