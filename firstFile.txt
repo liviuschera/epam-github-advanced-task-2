@@ -1,5 +1,5 @@
-1. git_1: Add and commit firstFile.txt file with 10 lines.
-2. git_1: Add and commit secondFile.txt file with 10 lines.
+1. changed line 1
+2. changed line 2
 3. merge branch git_1 to git_2
 new line
 nem line
